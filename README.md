@@ -8,8 +8,8 @@ Desarrollador/a apasionado/a por la tecnología, siempre buscando mejorar y apre
   
 ## 💡 Proyectos destacados
 
-- [Proyecto 1](https://github.com/ValentinaDelgadoRincon/Panaderia_Mis_Delicias) - Proyecto de panaderia.
-- [Proyecto 2](https://github.com/ValentinaDelgadoRincon/Competencia_Atletismo) — Formulario de atletismo.
+- [Panaderia](https://github.com/ValentinaDelgadoRincon/Panaderia_Mis_Delicias) - Proyecto de panaderia.
+- [Pagina de atletismo](https://github.com/ValentinaDelgadoRincon/Competencia_Atletismo) — Formulario de atletismo.
 
 ## 📈 Mis estadísticas
 
