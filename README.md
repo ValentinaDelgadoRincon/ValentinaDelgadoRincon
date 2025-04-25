@@ -18,7 +18,7 @@ Soy una **desarrolladora web** apasionada por la tecnología y el desarrollo de 
   Proyecto de una página web para una panadería, donde los clientes pueden ver los productos, precios y realizar pedidos.
   
 - [**Competencia Atletismo**](https://github.com/ValentinaDelgadoRincon/Competencia_Atletismo)  
-  Formulario web para registrar resultados de una competencia de atletismo, con validaciones y diseño responsivo.
+  Formulario web para registrar inscripciones de una competencia de atletismo, con validaciones y diseño responsivo.
 
 ## 📈 Mis estadísticas de GitHub
 
