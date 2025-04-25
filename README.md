@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola, soy [Valentina]! 👋
 
-<!--
-**ValentinaDelgadoRincon/ValentinaDelgadoRincon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador/a apasionado/a por la tecnología, siempre buscando mejorar y aprender. 🚀
 
-Here are some ideas to get you started:
+## 🌍 Actualmente en
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes**: Python, HTML, css
+  
+## 💡 Proyectos destacados
+
+- [Proyecto 1](https://github.com/ValentinaDelgadoRincon/Panaderia_Mis_Delicias) - Proyecto de panaderia.
+- [Proyecto 2](https://github.com/ValentinaDelgadoRincon/Competencia_Atletismo) — Formulario de atletismo.
+
+## 📈 Mis estadísticas
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+
+## 📫 Conecta conmigo
+
+- [Correo](valentinadr1403@gmail.com)
+
+---
+
+¡Gracias por visitar mi perfil! 😊
